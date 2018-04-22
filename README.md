@@ -1,6 +1,6 @@
 # JBlog
-## 练手项目，基于Springmvc+MyBatis+Spring+Html+Freemaker+EasyUI+Mysql的个人博客系统**
-** 介绍：**
+## 练手项目，基于Springmvc+MyBatis+Spring+Html+Freemaker+EasyUI+Mysql的个人博客系统
+**介绍：
 >1. 使用Maven3+Spring4+Springmvc+Mybatis3架构；数据库使用Mysql，数据库连接池使用阿里巴巴的Druid；
     页面使用FreeMaker模板引擎。
 >2. 博客前台的头部及侧边栏的数据使用quartz按时间间隔去跑数据，并把存储于ServletContext，
