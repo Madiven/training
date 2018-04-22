@@ -11,4 +11,4 @@
 
 ### 博客主页
 
-！[博客主页显示](https://github.com/Madiven/JBlog/readmeImages/01.png )
+![博客主页显示](https://github.com/Madiven/JBlog/blob/master/readmeImages/01.png)
